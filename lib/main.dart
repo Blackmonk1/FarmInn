@@ -7,7 +7,7 @@ import 'constants.dart';
 void main() {
   runApp(const MyApp());
 }
-// Written by Jay
+// BlackMonk was here
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
