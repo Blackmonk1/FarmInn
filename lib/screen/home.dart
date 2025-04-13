@@ -102,7 +102,7 @@ class _HomeState extends State<Home> with TickerProviderStateMixin {
                       ),
                     )),
                     const SizedBox(width: defaultPadding,
-                    ),
+                    ), //BlackMonk was here
                     Padding(
                       padding: const EdgeInsets.only(right: defaultPadding),
                       child: Container(
