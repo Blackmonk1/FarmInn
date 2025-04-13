@@ -53,7 +53,7 @@ class _SignUpState extends State<SignUp> {
                   color:  Colors.black,
                   fontSize: 22,
                   fontWeight: FontWeight.w600)
-             ),
+             ), //BlackMonk was here
              const SizedBox(height: defaultPadding * 2),
 Container(
   margin: const EdgeInsets.symmetric(horizontal: defaultPadding * 2),
