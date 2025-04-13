@@ -1,3 +1,3 @@
 # FarmInn
-A farm produce ordering app built with flutter
+A farm produce ordering app built with flutter(Dart).
 Download the necessary dependencies.
